@@ -1,0 +1,5 @@
+setup.py
+leaf_disease_prediction.egg-info/PKG-INFO
+leaf_disease_prediction.egg-info/SOURCES.txt
+leaf_disease_prediction.egg-info/dependency_links.txt
+leaf_disease_prediction.egg-info/top_level.txt

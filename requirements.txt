@@ -1,0 +1,19 @@
+Flask
+itsdangerous
+Jinja2
+matplotlib
+matplotlib-inline
+MarkupSafe
+numpy
+scikit-learn
+scipy
+opencv-python
+
+tensorboard
+tensorboard-plugin-wit
+tensorflow
+tensorflow-estimator
+Werkzeug
+numpy
+pandas
+-e .
